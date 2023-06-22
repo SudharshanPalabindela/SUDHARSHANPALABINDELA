@@ -48,7 +48,3 @@ I am a AWS CLOUD | DevOps Aspirant <img src="https://media.giphy.com/media/WUlpl
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-          
