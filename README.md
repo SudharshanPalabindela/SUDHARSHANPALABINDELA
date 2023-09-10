@@ -14,10 +14,13 @@ Here are a few noteworthy projects I have worked on:
 1. **[Automated-Web-Application-Deployment-using-Terraform-Dockers-Jenkins-AWS](https://github.com/SudharshanPalabindela/Automated-Web-Application-Deployment-using-Terraform-Dockers-Jenkins-AWS)**
    - Automated Jenkins CI/CD pipeline with Docker and GitHub integration for seamless application build, test, and deployment.
 
-2. **[TerraformScript](https://github.com/SudharshanPalabindela/TerraformScript)**
+2. **[Automated multi-tier web application deployment on AWS](https://github.com/SudharshanPalabindela/Automated-Multi-Tier-Web-Application-Deployment-on-AWS-)**
+   - Automated multi-tier web application deployment on AWS involves setting up a scalable and reliable infrastructure using services like AWS Virtual Private Cloud (VPC), Linux-based EC2 instances, Terraform for infrastructure as code, and AWS CloudFormation for managing the application stack.
+
+3. **[TerraformScript](https://github.com/SudharshanPalabindela/TerraformScript)**
    - Terraform script that about how to launch an ec2 from scratch, That From VPC and EC2.
      
-3. **[Automated WordPress Deployment with Nginx, LEMP Stack, and GitHubActions](https://github.com/SudharshanPalabindela/WordPressServer)**
+4. **[Automated WordPress Deployment with Nginx, LEMP Stack, and GitHubActions](https://github.com/SudharshanPalabindela/WordPressServer)**
    - Automated deployment process for a WordPress website using Nginx as the web server, LEMP (Linux, Nginx, MySQL, PHP) stack, and GitHub Actions as the CI/CD automation tool.
      
 
